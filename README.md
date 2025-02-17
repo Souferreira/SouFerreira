@@ -1,6 +1,6 @@
 # Olá, sou ferreira! 👋
 
-Atuo como estrategista digital, estou iniciando no desenvolvimento, estou com execuntada alguns projetos como sites e aplicativo chamado biblolingo que em breve vou esta compartilhando aqui, focado 100% no aprendizado e crescimento.
+Atuo como estrategista digital e estou iniciando no desenvolvimento de soluções inovadoras. Atualmente, estou executando projetos como a criação de sites e o desenvolvimento de um aplicativo chamado Biblolingo, que tem como foco total o aprendizado e o crescimento pessoal. Em breve, compartilharei mais sobre esses projetos.
 
 
 ## 🔧  Tecnologia que estou aprendendo
