@@ -1,22 +1,22 @@
 # Olá, eu sou o Souferreira! 👋
 
-Sou um desenvolvedor de software apaixonado com um grande interesse em desenvolvimento backend, computação em nuvem e IA. Adoro trabalhar em projetos desafiadores e aprender novas tecnologias.
+Atuo como estrategista digital, estou iniciando no desenvolvimento, estou com execuntada alguns projetos como sites e aplicativo chamado biblolingo que em breve vou esta compartilhando aqui, focado 100% no aprendizado e crescimento.
 
-## 🔧 Tecnologias e Ferramentas que Utilizo
 
-- **Linguagens:** Python, JavaScript, TypeScript, Java, C#
-- **Frameworks:** Node.js, Express, Django, Flask, React, Angular
-- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, Redis
-- **Nuvem:** AWS, Azure, Google Cloud Platform
+## 🔧  Tecnologia que estou aprendendo
+
+- **Linguagens:** JavaScript, Php e Flutter
+- **Frameworks:** Node.js, Express,React e Bootstrap
+- **Bancos de Dados:** MySQL, MongoDB e Firebase
+- **Nuvem:** Google Cloud Platform
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **IA/ML:** TensorFlow, PyTorch, scikit-learn
-- **Outros:** Git, Linux, APIs RESTful, GraphQL
+- **Outros:** Git, APIs RESTful, GraphQL
 
 ## 🌱 Atualmente Aprendendo
 
-- Orquestração avançada de Kubernetes e containers
-- Algoritmos de aprendizado de máquina e aprendizado profundo
-- Recursos avançados do TypeScript
+- Desenvolver Javascript, Php e Flutter
+- Estrategias de marketing para profissionais de saude e bem-estar.
+- Desenvolver projeto mobile.
 
 ## 🔭 Projetos
 
@@ -43,6 +43,8 @@ Uma breve descrição do projeto, quais tecnologias ele utiliza e quais desafios
 ## 🚀 Principais Linguagens
 
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Souferreira&layout=compact&theme=radical)
+
+
 
 ## 📝 Últimos Posts do Blog
 
