@@ -1,60 +1,58 @@
-import React, { useEffect, useState } from 'react';
+# Hi there, I'm Souferreira! 👋
 
-// Function to get the current time in a specific time zone
-const getTimeInTimeZone = (timeZone: string) => {
-  return new Date().toLocaleTimeString('en-US', { timeZone });
-};
+I'm a passionate software developer with a keen interest in backend development, cloud computing, and AI. I love working on challenging projects and learning new technologies.
 
-const DigitalClock: React.FC = () => {
-  // State to hold the current time for each time zone
-  const [time, setTime] = useState({
-    utc: getTimeInTimeZone('UTC'),
-    est: getTimeInTimeZone('America/New_York'),
-    pst: getTimeInTimeZone('America/Los_Angeles'),
-    ist: getTimeInTimeZone('Asia/Kolkata'),
-    jst: getTimeInTimeZone('Asia/Tokyo'),
-  });
+## 🔧 Technologies & Tools I Use
 
-  // Update the time every second
-  useEffect(() => {
-    const intervalId = setInterval(() => {
-      setTime({
-        utc: getTimeInTimeZone('UTC'),
-        est: getTimeInTimeZone('America/New_York'),
-        pst: getTimeInTimeZone('America/Los_Angeles'),
-        ist: getTimeInTimeZone('Asia/Kolkata'),
-        jst: getTimeInTimeZone('Asia/Tokyo'),
-      });
-    }, 1000);
+- **Languages:** Python, JavaScript, TypeScript, Java, C#
+- **Frameworks:** Node.js, Express, Django, Flask, React, Angular
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Cloud:** AWS, Azure, Google Cloud Platform
+- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn
+- **Others:** Git, Linux, RESTful APIs, GraphQL
 
-    return () => clearInterval(intervalId);
-  }, []);
+## 🌱 Currently Learning
 
-  return (
-    <div style={{ textAlign: 'center', fontFamily: 'Arial, sans-serif' }}>
-      <h1>Digital Clock</h1>
-      <div>
-        <h2>UTC</h2>
-        <p>{time.utc}</p>
-      </div>
-      <div>
-        <h2>EST</h2>
-        <p>{time.est}</p>
-      </div>
-      <div>
-        <h2>PST</h2>
-        <p>{time.pst}</p>
-      </div>
-      <div>
-        <h2>IST</h2>
-        <p>{time.ist}</p>
-      </div>
-      <div>
-        <h2>JST</h2>
-        <p>{time.jst}</p>
-      </div>
-    </div>
-  );
-};
+- Advanced Kubernetes and container orchestration
+- Machine learning algorithms and deep learning
+- Advanced TypeScript features
 
-export default DigitalClock;
+## 🔭 Projects
+
+### [Project Name](https://github.com/Souferreira/project-name)
+A brief description of the project, what technologies it uses, and what challenges it solves.
+
+### [Another Project](https://github.com/Souferreira/another-project)
+A brief description of the project, what technologies it uses, and what challenges it solves.
+
+## 📫 How to Reach Me
+
+- **Email:** souferreira@example.com
+- **LinkedIn:** [linkedin.com/in/souferreira](https://linkedin.com/in/souferreira)
+- **Twitter:** [@souferreira](https://twitter.com/souferreira)
+
+## 📈 GitHub Stats
+
+![Souferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souferreira&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophies](https://github-profile-trophy.vercel.app/?username=Souferreira&theme=radical)
+
+## 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souferreira&layout=compact&theme=radical)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Title of the First Blog Post](https://link-to-blog.com/first-blog-post)
+- [Title of the Second Blog Post](https://link-to-blog.com/second-blog-post)
+<!-- BLOG-POST-LIST:END -->
+
+## ❤️ Support Me
+
+If you like my work, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/souferreira" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
