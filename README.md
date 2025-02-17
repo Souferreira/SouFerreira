@@ -1,59 +1,60 @@
-# Hi there, I'm Souferreira! 👋
+# Olá, eu sou o Souferreira! 👋
 
-I'm a passionate software developer with a keen interest in backend development, cloud computing, and AI. I love working on challenging projects and learning new technologies.
+Sou um desenvolvedor de software apaixonado com um grande interesse em desenvolvimento backend, computação em nuvem e IA. Adoro trabalhar em projetos desafiadores e aprender novas tecnologias.
 
-## 🔧 Technologies & Tools I Use
+## 🔧 Tecnologias e Ferramentas que Utilizo
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C#
+- **Linguagens:** Python, JavaScript, TypeScript, Java, C#
 - **Frameworks:** Node.js, Express, Django, Flask, React, Angular
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, Redis
+- **Nuvem:** AWS, Azure, Google Cloud Platform
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **AI/ML:** TensorFlow, PyTorch, scikit-learn
-- **Others:** Git, Linux, RESTful APIs, GraphQL
+- **IA/ML:** TensorFlow, PyTorch, scikit-learn
+- **Outros:** Git, Linux, APIs RESTful, GraphQL
 
-## 🌱 Currently Learning
+## 🌱 Atualmente Aprendendo
 
-- Advanced Kubernetes and container orchestration
-- Machine learning algorithms and deep learning
-- Advanced TypeScript features
+- Orquestração avançada de Kubernetes e containers
+- Algoritmos de aprendizado de máquina e aprendizado profundo
+- Recursos avançados do TypeScript
 
-## 🔭 Projects
+## 🔭 Projetos
 
-### [Project Name](https://github.com/Souferreira/project-name)
-A brief description of the project, what technologies it uses, and what challenges it solves.
+### [Nome do Projeto](https://github.com/Souferreira/project-name)
+Uma breve descrição do projeto, quais tecnologias ele utiliza e quais desafios ele resolve.
 
-### [Another Project](https://github.com/Souferreira/another-project)
-A brief description of the project, what technologies it uses, and what challenges it solves.
+### [Outro Projeto](https://github.com/Souferreira/another-project)
+Uma breve descrição do projeto, quais tecnologias ele utiliza e quais desafios ele resolve.
 
-## 📫 How to Reach Me
+## 📫 Como me Contatar
 
 - **Email:** souferreira@example.com
 - **LinkedIn:** [linkedin.com/in/souferreira](https://linkedin.com/in/souferreira)
 - **Twitter:** [@souferreira](https://twitter.com/souferreira)
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
-![Souferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souferreira&show_icons=true&theme=radical)
+![Estatísticas do GitHub do Souferreira](https://github-readme-stats.vercel.app/api?username=Souferreira&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus do GitHub
 
-![trophies](https://github-profile-trophy.vercel.app/?username=Souferreira&theme=radical)
+![Troféus](https://github-profile-trophy.vercel.app/?username=Souferreira&theme=radical)
 
-## 🚀 Top Languages
+## 🚀 Principais Linguagens
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souferreira&layout=compact&theme=radical)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Souferreira&layout=compact&theme=radical)
 
-## 📝 Latest Blog Posts
+## 📝 Últimos Posts do Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Title of the First Blog Post](https://link-to-blog.com/first-blog-post)
-- [Title of the Second Blog Post](https://link-to-blog.com/second-blog-post)
+- [Título do Primeiro Post do Blog](https://link-to-blog.com/first-blog-post)
+- [Título do Segundo Post do Blog](https://link-to-blog.com/second-blog-post)
 <!-- BLOG-POST-LIST:END -->
 
-## ❤️ Support Me
+## ❤️ Apoie-me
 
-If you like my work, consider buying me a coffee!
+Se você gosta do meu trabalho, considere me comprar um café!
+
 
 <a href="https://www.buymeacoffee.com/souferreira" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 
