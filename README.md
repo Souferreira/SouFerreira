@@ -1,4 +1,4 @@
-# Olá, eu sou o Souferreira! 👋
+# Olá, sou ferreira! 👋
 
 Atuo como estrategista digital, estou iniciando no desenvolvimento, estou com execuntada alguns projetos como sites e aplicativo chamado biblolingo que em breve vou esta compartilhando aqui, focado 100% no aprendizado e crescimento.
 
