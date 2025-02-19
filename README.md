@@ -1,4 +1,4 @@
-# Olá, sou ferreira! 👋
+# Olá, Sou Ferreira! 👋
 
 Atuo como estrategista digital e estou iniciando no desenvolvimento de soluções inovadoras. Atualmente, estou executando projetos como a criação de sites e o desenvolvimento de um aplicativo chamado Biblolingo, que tem como foco total o aprendizado e o crescimento pessoal. Em breve, compartilharei mais sobre esses projetos.
 
