@@ -15,7 +15,7 @@ Atuo como estrategista digital e estou iniciando no desenvolvimento de soluçõe
 ## 🌱 Atualmente Aprendendo
 
 - Desenvolver Javascript, Php e Flutter
-- Estrategias de marketing para profissionais de saude e bem-estar.
+- Criaçã de site para profissionais da áreas saúde e bem-estar.
 - Desenvolver projeto mobile.
 
 ## 🔭 Projetos
