@@ -5,7 +5,7 @@ Atuo como estrategista digital e estou iniciando no desenvolvimento de soluçõe
 
 ## 🔧  Tecnologia que estou aprendendo
 
-- **Linguagens:** JavaScript, Php e Flutter
+- **Linguagens:** JavaScript e flutter
 - **Frameworks:** Node.js, Express,React e Bootstrap
 - **Bancos de Dados:** MySQL, MongoDB e Firebase
 - **Nuvem:** Google Cloud Platform
@@ -14,7 +14,7 @@ Atuo como estrategista digital e estou iniciando no desenvolvimento de soluçõe
 
 ## 🌱 Atualmente Aprendendo
 
-- Desenvolver Javascript, Php e Flutter
+- Desenvolver Javascript e Flutter
 - Criaçã de site para profissionais da áreas saúde e bem-estar.
 - Desenvolver projeto mobile.
 
