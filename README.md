@@ -8,7 +8,7 @@ Atuo como estrategista digital e estou iniciando no desenvolvimento de soluçõe
 - **Linguagens:** JavaScript e flutter
 - **Frameworks:** Node.js, Express,React e Bootstrap
 - **Bancos de Dados:** MySQL, MongoDB e Firebase
-- **Nuvem:** Google Cloud Platform
+- **Nuvem:** Google Cloud Platform e aws
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
 - **Outros:** Git, APIs RESTful, GraphQL
 
