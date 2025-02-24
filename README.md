@@ -14,9 +14,9 @@ Atuo como estrategista digital e estou iniciando no desenvolvimento de soluçõe
 
 ## 🌱 Atualmente Aprendendo
 
-- Desenvolver Javascript e Flutter
+- Desenvolver web
 - Criaçã de site para profissionais da áreas saúde e bem-estar.
-- Desenvolver projeto mobile.
+- Desenvolver projeto mobile Biblolingo aplicativo para aprender idiomas atraves da biblia.
 
 ## 🔭 Projetos
 
