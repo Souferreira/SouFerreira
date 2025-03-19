@@ -6,9 +6,9 @@ Atuo como estrategista digital e estou iniciando no desenvolvimento web. Atualme
 ## 🔧  Tecnologia que estou aprendendo
 
 - **Linguagens:** JavaScript e flutter
-- **Frameworks:** Node.js, Express,React e Bootstrap
-- **Bancos de Dados:** MySQL, MongoDB e Firebase
-- **Nuvem:** Google Cloud Platform e aws
+- **Stacks:** Node.js, Express.js,Nest.js,React,Next.js e Bootstrap
+- **Bancos de Dados:** MySQL, MongoDB, Firebase e Microsoft SQL SERVER.
+- **Nuvem:** Google Cloud Platform, AWS e Azure.
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
 - **Outros:** Git, APIs RESTful, GraphQL
 
