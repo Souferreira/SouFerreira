@@ -14,9 +14,9 @@ Atuo como estrategista digital e estou iniciando minha jornado na programacao de
 
 ## 🌱 Atualmente Aprendendo
 
-- Desenvolver web
-- Criaçã de site para profissionais da áreas saúde e bem-estar.
-- Desenvolver projeto mobile Biblolingo aplicativo para aprender idiomas atraves da biblia.
+-  Desevolvendo projeto Gestão de Igreja.
+- Estrategista digital Ana Dias Terapeuta.
+- Desenvolver projeto mobile Biblolingo aplicativo para aprender idiomas atraves da bíblia.
 
 ## 🔭 Projetos
 
