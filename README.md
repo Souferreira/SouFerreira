@@ -1,6 +1,6 @@
 # Olá, Sou Ferreira! 👋
 
-Atuo como estrategista digital e estou iniciando no desenvolvimento web. Atualmente, estou executando projetos como a criação de sites e o desenvolvimento de um aplicativo chamado Biblolingo, que tem como foco total o aprendizado e o crescimento pessoal. Em breve, compartilharei mais sobre esses projetos.
+Estou iniciando minha jornado na programacao dessde 2024, com foco de me torna fullstack. Atualmente, estou executando projetos como a criação de sites e o desenvolvimento de um aplicativo chamado Biblolingo, que tem como foco total o aprendizado e o crescimento pessoal. Em breve, compartilharei mais sobre esses projetos.
 
 
 ## 🔧  Tecnologia que estou aprendendo
